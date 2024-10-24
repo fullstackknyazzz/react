@@ -281,7 +281,7 @@ $background-color_7: #F16D7F;
 	margin-bottom: 25px;
 }
 .footer-middle {
-	background-image: url('images/footer-background.png');
+	background-image: url('../images/footer-background.png');
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
 	min-height: 448px;
@@ -454,7 +454,7 @@ $background-color_7: #F16D7F;
 	}
 	.footer-middle {
 		flex-direction: column;
-		background-image: url('images/footer-background-tablet.png');
+		background-image: url('../images/footer-background-tablet.png');
 	}
 	.footer-middle-left {
 		margin: 0;
@@ -556,7 +556,7 @@ $background-color_7: #F16D7F;
 	}
 	.footer-middle {
 		flex-direction: column;
-		background-image: url('images/footer-background-phone.png');
+		background-image: url('../images/footer-background-phone.png');
 	}
 	.footer-middle-left {
 		margin: 0;
